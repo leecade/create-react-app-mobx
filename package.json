@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
-    "react-scripts": "0.2.3"
+    "react-scripts": "0.7.0"
   },
   "dependencies": {
     "mobx": "^2.5.0",
